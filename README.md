@@ -1,5 +1,5 @@
-# Sensor-de-distancia-lcd-
-Un sersor de distancia en metros
+# Sensor-de-distancia-lcd
+## Un sersor de distancia en metros
 
 
 
